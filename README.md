@@ -81,6 +81,12 @@ icon 展示问题：
 1. [安装字体](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts)
 iTerm2 → Preferences → Profiles → Text
 
+2. 搜索
+```shell
+brew install fzf
+brew install ripgrep
+```
+
 
 ### Alfred
 

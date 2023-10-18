@@ -2,6 +2,9 @@
 
 ## 工具类
 
+### brew
+[软件包安装工具](https://brew.sh/)
+
 ### nvim
 
 
@@ -74,6 +77,9 @@ require("nvim-autopairs").setup {}
 EOF
 
 ```
+icon 展示问题：
+1. [安装字体](https://github.com/ryanoasis/nerd-fonts#option-4-homebrew-fonts)
+iTerm2 → Preferences → Profiles → Text
 
 
 ### Alfred

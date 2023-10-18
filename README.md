@@ -87,6 +87,15 @@ brew install fzf
 brew install ripgrep
 ```
 
+### 开发相关
+
+- nvm
+- nrm
+
+### 命令行工具
+
+- ripgrep
+- fzf
 
 ### Alfred
 

@@ -1,8 +1,7 @@
 # my-mac
 # myWindows
-## 工具类-v6
-111
-222
+## 工具类-v99
+
 ### brew
 [软件包安装工具](https://brew.sh/)
 
